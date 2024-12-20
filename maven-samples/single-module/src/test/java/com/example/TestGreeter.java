@@ -28,7 +28,7 @@ public class TestGreeter {
   }
 
    @Test
-  public void greetShouldIncludeTheOneBeingGreeted() {
+  public void IntentionallyAdded() {
     assertTrue(true);
   }
 
